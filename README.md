@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yueseqaz&show_icons=true&theme=rose)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yueseqaz)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://ibb.co/wQmRx0L)
+![IMG-0053](https://i.ibb.co/4Sr75mf/IMG-0053.jpg)
