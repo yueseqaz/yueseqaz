@@ -1,3 +1,3 @@
-![:name](https://count.getloli.com/@:https://github.com/yueseqaz)
+![:name](https://count.getloli.com/@:Sakura?theme=booru-ffsr)
 ### [Cosplay-repo](https://t.me/sakuraCosplayrepo)
 
