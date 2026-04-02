@@ -7,8 +7,6 @@
 
 - 🌱 I'm currently learning **Java、Spring Boot、MySQL、MyBatis/Mybatis Plus、Vue、UniApp、Docker、Swift**
 
-- 👯 I'm looking to collaborate on **Nothing**
-
 - 🤝 I'm looking for help with **Find a suitable job.**
 
 - 💬 Ask me about **Everything**
