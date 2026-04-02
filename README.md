@@ -2,7 +2,6 @@
 
 ### A passionate Swift developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yueseqaz&label=Profile views&color=0e75b6&style=flat" alt="yueseqaz" /> </p>
 
 - 🔭 I'm currently working on **A current student in computer science and technology.**
 
