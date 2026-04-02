@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **A current student in computer science and technology.**
 
-- 🌱 I'm currently learning **Java、Spring Boot、MySQL、MyBatis/Mybatis Plus、Vue、UniApp、Docker、Swift**
+- 🌱 I'm currently learning **Java、Spring Boot、MySQL、MyBatis/Mybatis Plus、Vue、UniApp、Docker、Swift、Git、Linux**
 
 - 🤝 I'm looking for help with **Find a suitable job.**
 
