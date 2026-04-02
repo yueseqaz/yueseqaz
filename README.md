@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yueseqaz)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yueseqaz&theme=xcode" /> </div>
