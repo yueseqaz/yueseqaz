@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sakura
 
-
+<img src="https://komarev.com/ghpvc/?username=yueseqaz&label=Profile+Views&color=ff69b4&style=for-the-badge" />
 
 - 🔭 I'm currently working on **A current student in computer science and technology.**
 
